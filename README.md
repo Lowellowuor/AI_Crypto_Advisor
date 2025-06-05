@@ -110,3 +110,4 @@ We welcome contributions to CryptoAdvisor Pro!
 **Project Contributors:**
 - [254Manuell](https://github.com/254Manuell)
 - [Brillywam](https://github.com/Brillywam)
+- [teddy502](https://github.com/teddy502)
